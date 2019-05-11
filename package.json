@@ -1,0 +1,26 @@
+{
+  "name": "nodify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieczorx/nodify.git"
+  },
+  "author": "pieczorx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieczorx/nodify/issues"
+  },
+  "homepage": "https://github.com/pieczorx/nodify#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-github-webhook": "^1.0.6",
+    "fs-extra": "^7.0.1",
+    "simple-git": "^1.113.0"
+  }
+}
