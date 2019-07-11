@@ -1,4 +1,4 @@
-# Nodify - Ultimate Panel for Debian
+# Nodify - Ultimate Panel for Debian 8
 
 ## How to install?
 Nodify comes up with one handy command for install process. It will check for your system version and install all needed dependencies itself.
